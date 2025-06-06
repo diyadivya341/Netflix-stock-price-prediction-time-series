@@ -69,19 +69,8 @@ Choose between ARIMA and Simple Exponential Smoothing
 
 Interactive Streamlit interface for user inputs and charts
 
-🚀 Run the App:
 
-bash
-Copy
-Edit
 
-pip install -r requirements.txt
-
-streamlit run app.py
-
-Would you like me to also generate:
-
-README.md file ready to upload to GitHub?
 
 
 
